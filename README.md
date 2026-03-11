@@ -1,9 +1,9 @@
 # Amazon-clone
 Amazon homepage UI clone built using HTML and CSS
-# Features
+## Features
 -Responsive navbar
 -Hero banner
 -Product grid layout
 -Hover animations
-# Live Demo
+## Live Demo
 https://mahiyasingh.github.io/Amazon-clone/
